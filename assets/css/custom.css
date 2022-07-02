@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+h1{
+        font-family: 'Arvo', serif;
+}
+
+blockquote {text-align: left;
+        font-size: larger;
+        font-style: italic;
+        color: darkmagenta;
+}
+
+element class firstcharacter {
+        float: left;
+        font-family: Georgia;
+        font-size: 75px;
+        line-height: 60px;
+        padding-top: 4px;
+        padding-right: 8px;
+        padding-left: 3px;
+        }
