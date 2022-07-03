@@ -15,26 +15,26 @@ Trabajo Fin de Master, TFM, in Spanish) was trying to experiment and work with a
 Here is a list of some techniques and tools that were used to make this job
 
 -	Computer terminal
-    a)	Download some PDF and video through scripts
-    b)  Extract information from PDF through scripts
-    c)  Control GitHub
-    d) 	Create Markdown documents
+    a).   Download some PDF and video through scripts
+    b).   Extract information from PDF through scripts
+    c).   Control GitHub
+    d).   Create Markdown documents
 -	Inkscape
-    a)  Making a table
+    a).   Making a table
 -	GIMP
-    a)  Photo editing
+    a).   Photo editing
 -	OpenShot
-    a)	Video editing
+    a).   Video editing
 -	R Studio
-    a)	Access to dataset, analyze them
-    b)	Making plots
-    c)	Making maps
+    a).   Access to dataset, analyze them
+    b).   Making plots
+    c).   Making maps
 -	Jupyter Notebooks
-    a)	Access to dataset, analyze them
-    b)	Making plots
+    a).   Access to dataset, analyze them
+    b).   Making plots
 -	VS Code
-    a)	Making Bootstrap web
-    b)	Editing HTML and CSS
+    a).   Making Bootstrap web
+    b).   Editing HTML and CSS
 
 ### The topic: Forgotten pandemics
 As I explained on the website, Covid-19 has shown how important dataset are. During this outbreak, world has stopped its normal activity, what has
