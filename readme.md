@@ -1,14 +1,16 @@
 ## Forgotten epidemics. A Final Assignment of a Master’s Degree
 
-Starting on 17th October 2021, I was involved in Master of Data and Visualization Journalism (<a 
+Starting on 17th October 2021, I was involved in Master of Data and Visualization Journalism (<a
 href="https://mpvd.es">Master de Periodismo y Visualización de Datos</a>), a university training focused on how journalist can use data to do their job and how they can show different figures and charts appropriately.
 
-The master has 10 modules, in all which students have learned how to manage a computer terminal, where we could 
+The master has 10 modules, in all which students have learned how to manage a computer terminal, where we could
 find data (even when they are not visible), how we can access, manage, edit, analyze, and visualize them using different tools, techniques and languages, with an open source and an open mind way of doing. We have also understood what the main principles are to follow when we must publish tables, the colors
 correlation or typography styles. We also have learned new ways to edit pics, videos, and audio clips, and how to make interactive files.
 
 Although it could be almost impossible to show all the things we have seen during 10 months, one of the objectives of this Final Assignment (or
 Trabajo Fin de Master, TFM, in Spanish) was trying to experiment and work with a wide examples of tools, techniques, and learnings of this Master.
+
+You could see the result of the work done at <a href="https://arantxaherranz.github.io/forgotten-pandemics/">Forgotten pandemics</a>
 
 ### Techniques and tools involved
 
@@ -71,7 +73,7 @@ For sure, I would like to also have enough time to find the economics implicatio
 countries, organizations and pharma companies dedicated to find a cure to each of this illness. Specially because this data is not always as clear
 as the dataset of cases and deaths.
 
-I've also looked for and downloaded (again, using some terminal scripts shown during master) videos (with the 
+I've also looked for and downloaded (again, using some terminal scripts shown during master) videos (with the
 appropriate Creative Commons
 licenses). With them, I made a clip with OpenShot and used it as the header of my website.
 
@@ -82,15 +84,15 @@ them for the implication during this course, for sharing their knowledge and the
 Thanks also to all the experts that spend some hours with us in master classes and keynotes. I’ve learned a lot of every one of you and inspired
 me in different ways.
 
-And, also, I would like to thanks to all of my classmates: <a 
-href="https://www.linkedin.com/in/ana-ruiz-espinar-171721197/">Ana Isabel</a>, <a 
-href="https://www.linkedin.com/in/darioojeda/">Darío</a>, <a 
+And, also, I would like to thanks to all of my classmates: <a
+href="https://www.linkedin.com/in/ana-ruiz-espinar-171721197/">Ana Isabel</a>, <a
+href="https://www.linkedin.com/in/darioojeda/">Darío</a>, <a
 href="https://www.linkedin.com/in/dilfuza-mirzakhmedova/">Difulza</a>, <a
-href="https://scholar.google.com/citations?user=TeIjXEQAAAAJ">Enrique</a>, <a 
-href="https://www.linkedin.com/in/irene-saravia-en/">Irene</a>, <a 
-href="https://www.linkedin.com/in/julián-f-mart%C3%ADnez-vallejo-9b3a1b73">Julián</a>, <a 
-href="https://www.linkedin.com/in/kareldepourcq">Karel</a>, <a 
-href="https://www.linkedin.com/in/luc%C3%ADa-el-asri/">Lucía</a> and <a 
+href="https://scholar.google.com/citations?user=TeIjXEQAAAAJ">Enrique</a>, <a
+href="https://www.linkedin.com/in/irene-saravia-en/">Irene</a>, <a
+href="https://www.linkedin.com/in/julián-f-mart%C3%ADnez-vallejo-9b3a1b73">Julián</a>, <a
+href="https://www.linkedin.com/in/kareldepourcq">Karel</a>, <a
+href="https://www.linkedin.com/in/luc%C3%ADa-el-asri/">Lucía</a> and <a
 href="https://www.linkedin.com/in/nuria-noguera-quintana/">Nuria</a>. It has been a great ride and a complete honor to share this adventure with
 all of you. We have laugh, we have share doubts, and knowledge and we made a great team. Hope to keep in touch.
 
