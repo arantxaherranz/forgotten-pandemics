@@ -9,10 +9,10 @@ Arantxa Herranz
 
 ### Con la inestimable ayuda de:
 
-    [Yolanda García](https://mpvd.es/www.linkedin.com/in/yolandagarciaruizucm/) para los notebooks de Jupyter, cálculos y visualizaciones en Python
-    [Alejandro Zapala](https://linkedin.com/in/alejandrozappala) para la estadística y visualización en R
-    [Jesús David Navarro](https://es.linkedin.com/in/jesusda) *Jesusda* para la creación de una tabla
-    [Julián Pérez](https://julian-perez.com/) y [Adolfo Antón Bravo](https://infotics.es/) en la resolución de problemas con HTML y GitHub
+    <a href="https://mpvd.es/www.linkedin.com/in/yolandagarciaruizucm/">Yolanda García</a> para los notebooks de Jupyter, cálculos y visualizaciones en Python
+    <a href="https://linkedin.com/in/alejandrozappala">Alejandro Zapala</a> para la estadística y visualización en R
+    <a href="https://es.linkedin.com/in/jesusda">Jesús David Navarro</a> *Jesusda* para la creación de una tabla
+    <a href="https://julian-perez.com/">Julián Pérez</a> y <a href="https://infotics.es/">Adolfo Antón Bravo</a> en la resolución de problemas con HTML y GitHub
 
 
 ### Agradecimientos
@@ -67,12 +67,15 @@ Antes de ponerme manos a la obra sobre este TFM se presentaron varias propuestas
 Finalmente, se optó por la temática de las Pandemias Olvidadas tras ser el tema que más me atraía y que más oportuno le parecía también al coordinador del master.
 
 Una vez decidido el tema, el reto era múltiple:
-- Importancia de los datos
+
+- **Importancia de los datos**
+
 Por un lado, se quería mostrar la importancia que han adquirido los datos durante la pandemia de la Covid-19, tanto a nivel científico como periodístico. Durante estos dos años, especialmente en los primeros meses, los diferentes medios y redes sociales se han nutrido e inundado de cantidad de datos y gráficas con los que se explicaba a qué nos estábamos enfrentando.
 
 Es, sin duda, uno de los "efectos positivos" de esta pandemia, que ha puesto sobre la mesa la trascendencia de contar con buenos conjuntos de datos y la importancia de su análisis y visualización para comprender, de un vistazo, mucha información
 
-- Otras pandemias
+- **Otras pandemias**
+
 Uno de los grandes retos del TFM era mostrar que, pese a esa sobre exposición de los datos de la Covid-19, en el mundo seguían existiendo y conviviendo muchas otras pandemias y cómo estas pasaban desapercibidas a ojo de los occidentales.
 
 Fue durante el primer verano de la pandemia cuando en un telediario entrevistaron a una persona responsable de la Organización Mundial de la Salud (OMS) y le preguntaron cómo se explicaba que en África hubiera tan baja incidencia (y, por tanto, mortalidad) de este virus. Esta persona explicó que en ese momento, además de la Covid, el continente tenía que hacer frente a otras siete pandemias.
@@ -80,7 +83,7 @@ Fue durante el primer verano de la pandemia cuando en un telediario entrevistaro
 Aquello fue lo que me impulsó a hacer este trabajo, con la idea, como punto de partida, de que el mundo se había paralizado por un virus que afectaba al hombre blanco que vive en los países desarrollados mientras que la vida seguía cuando los afectados quedaban lejos de sus fronteras.
 
 
-- Debilidad de algunos datos
+- **Debilidad de algunos datos**
 
 Más allá del "dato no mata relato", hay una máxima en el mundo del Big Data: que algo esté basado en datos no conlleva inmediatamente que sea justo, real ni equitativo.
 
@@ -90,7 +93,7 @@ Dicen que la estadística es la ciencia por la que si una persona se come un pol
 
 ### 2. Elaboración y trabajo del TFM
 
-- Obtención de los dataset
+- **Obtención de los dataset**
 
 Una vez decidido el tema para hacer el TFM, lo primero fue hacer una búsqueda de los dataset para su posterior descarga. La OMS fue uno de los lugares mayoritarios a la hora de recabar esta información, pues se trata del mayor organismo internacional relativo a temas de salud.
 
@@ -101,7 +104,7 @@ Aunque no dio tiempo a tratarlos con más profundidad, también se hizo una prim
 Dado que no iba a disponer de tiempo suficiente para analizar esta información, se hizo una búsqueda en PubMed (principal referencia de *papers* de documentación y trabajos en el mundo científico) sobre el número de publicaciones que había tanto de la Covid-19 como de otras pandemias. Estos datos, acompañados por la fecha de descubrimiento de la causa de la enfermedad que provoca la pandemia, se reflejaron en una tabla. Dado que muchas veces la elaboración de un *paper* conlleva algún tipo de financiación, estos datos también podrían ayudar a mostrar la importancia que se da a unas enfermedades frente a otras.
 
 
-- Tratamiento de los datos
+- **Tratamiento de los datos**
 
 Una vez recopilados los datos y descargados en formatos válidos, se procedió a trabajar con ellos.
 
@@ -111,7 +114,7 @@ Con los datasets ya preparados, fue el momento de trabajarlos, tanto en Python c
 
 En otros casos, se eligió específicamente R no solo para poder trabajar también en este entorno, sino porque se buscaba obtener unos datos estadísticos y el lenguaje R parecía ser la opción más idónea para ello. Aunque en Python también habíamos visto cómo elaborar mapas, después de las clases sobre cartografía me pareció también más apropiado reforzar estos conocimientos en este lenguaje.
 
-- Visualización
+- **Visualización**
 
 En este punto, cabe señalar que la visualización de los datos era el último paso de cada dataset de cada enfermedad. Sin embargo, la rutina de trabajo era centrarse en una pandemia y, una vez obtenida la visualización, se pasaba a trabajar con otro dataset. La idea era no tener demasiados frentes abiertos e ir consiguiendo visualizaciones y gráficos poco a poco. Aunque es cierto que en algunos casos se tenían dos espacios de trabajo abiertos y no cerrados porque se necesitaba ayuda de alguno de los profesores, el objetivo era también que las dudas solucionadas pudieran servir para avanzar en el siguiente dataset.
 
@@ -119,13 +122,13 @@ Algunos de estos gráficos y mapas obtenidos fueron con posterioridad tratados c
 
 Además, y en paralelo, se buscaron también recursos gráficos, especialmente de vídeo, para poder elaborar un archivo para la portada de la página web. Estos archivos debían cumplir con los requerimientos Creative Commons (vistos también durante el máster) para que pudieran ser tratados, modificados e incluidos en un vídeo, realizado con OpenShot, otro de los programas vistos durante el máster. Algunos de estos recursos fueron, además, descargados a través de la terminal usando algunos de los scripts vistos durante uno de los módulos, lo que permitió también seleccionar la calidad del vídeo descargado.
 
-- Redacción
+- **Redacción**
 
 Una vez que se habían limpiado y tratado los datos y se tenían los gráficos, fue el momento de redaactr el texto del TFM.
 
 Un mantra del mundo de los datos dice que el 80% del tiempo se dedica a limpiar y preparar los datos y que solo un 20% es trabajo puro y duro con ellos. Algo parecido puede decirse de este TFM en el sentido de que, aunque explicaba al principio de esta memoria que el objetivo de este TFM era que fuera un trabajo periodístico, la redacción fue la parte más liviana del proyecto acometido. Bien por la experiencia acumulada durante los años, bien por el trabajo que conlleva el tratamiento y posterior visualización de los datos, la redacción del texto fue lo más rápido y "sencillo".
 
-- Creación de la página web
+- **Creación de la página web**
 
 Con todos los materiales preparados (textos, vídeo, gráficos -tanto en código como en imagen), llegaba el momento de unirlo todo y darle forma. Para ello, se utilizó VS Code y Boostrap como referencia.
 
@@ -149,7 +152,7 @@ En general la subida de los códigos no dieron grandes problemas, salvo con el H
 
 Cabe señalar que, aunque se había visto Scrollama durante el máster, la idea era no replicar exactamente la web que se diseñó durante el módulo, sino intentar hacer algo diferente. Se intentó que la definición de pandemia que aparece tras la cabecera pudiera usarse [Soundcite](http://soundcite.knightlab.com), la petición de permiso a los diferentes diccionarios británicos fue tardía, por lo que no dio tiempo a incluir este recursos con los permisos oportunos.
 
-- GitHub
+- **GitHub**
 
 Una vez que en local todo parecía funcionar correctamente y que la página web estaba preparada, se procedió a crear, vía terminal, el repositorio y a vincularlo con GitHub, así como a la creación de GitHub Pages.
 
@@ -163,14 +166,14 @@ Se procedió a editar el vídeo para reducir su duración y, por tanto su tamañ
 
 Con la página creada y el repositorio actualizado, se procedió a enviar el TFM al claustro de profesores (aunque faltaba esta memoria).
 
-*Alea iacta est*
+### *Alea iacta est*
 
 
 ### 3. Dificultades del TFM
 
 Como cualquier TFM, se han presentado algunas dificultades y retos a la hora de terminar este proyecto. Aunque algunos de ellos se han ido adelantando en esta memoria, estos han sido los grandes desafíos a la hora de completar este TFM.
 
-- Disponibilidad y fiabilidad de los datos
+- **Disponibilidad y fiabilidad de los datos**
 
 Una de las primeras dificultades con las que me topé es que no todos los datos estaban actualizados. De hecho, en el mejor de los casos, 2020 era el último año con información disponible de algunas de las pandemias (tanto de las tratadas como de las que se han quedado en el tintero).
 
@@ -187,7 +190,8 @@ Por otro lado, incluso aunque los datos estén plenamente actualizados. la fiabi
 En otros casos, los datos más actualizados residían en un PDF donde solo se muestran las conclusiones. Estos PDF no tienen las tablas ni los enlaces a dichos conjuntos de datos.
 
 Tampoco hay que olvidar que en algunas pandemias, como la del hambre, más que datos oficiales hay estimaciones. Quienes adolecen más de estas hambrunas son países tan pobres que no se recogen datos ni siquiera de partos y defunciones. Aunque los trabajos de campo que realiza Unicef en ese sentido vienen avalados por décadas de trayectoria, no dejan de ser estimaciones y no datos confirmados.
-- Visualización de recursos gráficos
+
+- **Visualización de recursos gráficos**
 
 Uno de los gráficos más importantes del TFM debía verse de forma interactiva, no solo porque así facilitaba su comprensión, sino porque al ser un histograma de diferentes regiones, algunos datos se solapan y no se visualizan correctamente en una imagen fija.
 
@@ -198,7 +202,7 @@ Aunque retiré el código para volver a incluirlo varias veces, y aunque incluso
 
 Por otro lado, el vídeo también ha generado varios problemas de visualización. Al reducirlo de tamaño y de duración empezaron a aparecer fotogramas de algunos clips en trozos en los que no correspondía y, pese a que quité las pistas de sonido, en el resultado final parece que se cuela algún tipo de audio.
 
-- Tiempo
+- **Tiempo**
 
 Ha sido, sin duda, el gran reto: la falta de tiempo. Evidentemente, una persona con más y mejores habilidades que las de un estudiante habría avanzado más y más rápido. Si hubiera sido un trabajo en equipo es posible que también hubiera dado más tiempo a ver más enfermedades. La sensación es que, como en un buen cierre, se iba trabajando contrarreloj.
 
@@ -210,163 +214,203 @@ Esta falta de tiempo hizo que se tuviera que limitar el alcance y la cantidad de
 A continuación se recogen algunas de las fuentes utilizadas y consultadas para hacer este TFM, así como otras cuyos datos también se descargaron pero finalmente no se usaron
 
 
-1. Covid
+1. **Covid**
 
 WHO Coronavirus (COVID-19)
+
 https://covid19.who.int/data
 https://covid19.who.int/table
 
 SARS-CoV-2 Daily and Cumulative Infection Estimates 2019-2021
+
 https://ghdx.healthdata.org/record/ihme-data/covid_19_cumulative_infections
 
 Provisional COVID 19 Deaths by Sex and Age
+
 https://data.cdc.gov/widgets/9bhg-hcku?mobile_redirect=true
 
 GHO OData API
+
 https://www.who.int/data/gho/info/gho-odata-api
 
 COVID-19 Excess Mortality Estimates 2020-2021
+
 https://ghdx.healthdata.org/record/ihme-data/covid_19_excess_mortality
 
 COVID-19 Excess Mortality Estimates 2020-2021
+
 https://ghdx.healthdata.org/record/ihme-data/covid_19_excess_mortality
 
 
-2. Colera
+2. **Colera**
 
 Cholera worldwide overview
+
 https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly)
 
 Cholera Dataset
+
 https://www.kaggle.com/datasets/imdevskp/cholera-dataset
 
 
-3. Ebola
+3. **Ebola**
 
 Ebola data and statistics
+
 https://apps.who.int/gho/data/node.ebola-sitrep
 
 Number of Ebola Cases and Deaths in Affected Countries
+
 https://data.humdata.org/dataset/ebola-cases-2014 (ebola-cases-and-deaths-who-gar-sitrep y ebola_data_db_format)
 
 
-4. Malaria
+4. **Malaria**
 
 The Global Health Observatory: Malaria
+
 https://www.who.int/data/gho/data/themes/malaria
 
 Total number of malaria cases (presumed + confirmed cases) Estimated number of malaria deaths
+
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/total-number-of-malaria-cases-presumed-confirmed-cases
 
 Datos y cifras del Paludismo
+
 https://www.who.int/es/news-room/fact-sheets/detail/malaria
 
 
-5. Dengue
+5. **Dengue**
 
 Reported Cases od Dengue Fever in The Americas
+
 https://www3.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/252-dengue-pais-ano-en.html
 
 
-6. Diarrea
+6. **Diarrea**
 
 Diarrhoea data
+
 https://data.unicef.org/resources/dataset/diarrhoea/
 
 
-7. Hambre
+7. **Hambre**
 
 Global Hunger Index, 2021
+
 https://ourworldindata.org/grapher/global-hunger-index
 
 FAO: The Sstate of Food Security and Nutrition in the World
+
 https://www.fao.org/3/cb4474en/cb4474en.pdf
 
 UNICEF Global Annual Results Report 2021
+
 https://www.unicef.org/media/121836/file/Global-annual-results-report-2021-goal-area-1.pdf
 
 UNICEF Annual Report 2021
+
 https://www.unicef.org/media/121251/file/UNICEF%20Annual%20Report%202021.pdf
 
 WHO Global Database on Child Growth and Malnutrition
+
 https://apps.who.int/nutgrowthdb/database/search
 
 
-8. Cancer
+8. **Cancer**
 
 International Collaboration on Cancer Reporting (ICCR) datasets
+
 https://www.iccr-cancer.org/datasets
 
 
-9. Suicidios
+9. **Suicidios**
 
 Suicide mortality rate (per 100,000 population)
+
 https://data.worldbank.org/indicator/SH.STA.SUIC.P5
 
 
-10. VIH
+10. **VIH**
 
 Data on the size of the HIV/AIDS epidemic
+
 https://www.who.int/data/gho/data/themes/hiv-aids/data-on-the-size-of-the-hiv-aids-epidemic
 
 Key facts HIV 2020
+
 https://cdn.who.int/media/docs/default-source/hq-hiv-hepatitis-and-stis-library/key-facts-hiv-2020.pdf?sfvrsn=582c3f6e_13
 
 Global progress report on HIV, viral hepatitis and sexually transmitted infections, 2021
+
 https://apps.who.int/iris/bitstream/handle/10665/342808/9789240030985-eng.pdf?sfvrsn=582c3f6e_8
 
 
-11. MERS (Middle East Respiratory Syndrome)
+11. **MERS (Middle East Respiratory Syndrome)**
+
 
 Geopositioned Middle East Respiratory Syndrome Coronavirus Occurrences Database 1983-2017
+
 https://ghdx.healthdata.org/record/ihme-data/geopositioned-mers-cov-occurrences-database-1983-2017
 
 Database of geopostioned Middle East Respiratory Syndrome Coronavirus occurrences
+
 https://figshare.com/articles/dataset/Database_of_geopostioned_Middle_East_Respiratory_Syndrome_Coronavirus_occurrences/10009919/3
 
 
-12. Tuberculosis
+12. **Tuberculosis**
 
 Global Tuberculosis Report 2020
+
 https://apps.who.int/iris/bitstream/handle/10665/336069/9789240013131-eng.pdf
 
 Global Tuberculosis Programme
+
 https://www.who.int/teams/global-tuberculosis-programme/data (TB_provisional_notifications_2022-05-01)
 
 Tuberculosis Household Risk Exposure Estimates 2019
+
 https://ghdx.healthdata.org/record/ihme-data/tuberculosis-household-risk-exposure-estimates-2019
 
 
-13. Vacunas
+13. **Vacunas**
 
 COVID-19 Vaccine R&D Investments
+
 https://www.knowledgeportalia.org/covid19-r-d-funding
 
 PubMed
+
 https://pubmed.ncbi.nlm.nih.gov
 
 Coronavirus Global Response EU
+
 https://global-response.europa.eu/index_en
 
 
-14. Laboratorios
+14. **Laboratorios**
 
 Pfizer
+
 https://investors.pfizer.com/Investors/Financials/Annual-Reports/default.aspx
 
 Moderna
+
 https://investors.modernatx.com/financials/annual-reports/default.aspx
 
 astraZeneca
+
 https://www.astrazeneca.com/investor-relations/annual-reports.html
 
 Novartis
+
 https://www.novartis.com/investors/financial-data/annual-results
 
 Merck
+
 https://www.merckgroup.com/en/investors/reports-and-financials.html
 
 Sanofi
+
 https://www.sanofi.com/en/investors/reports-and-publications
 
 
