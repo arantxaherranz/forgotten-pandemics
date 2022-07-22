@@ -48,8 +48,26 @@ ordenOk <- subset(orden, State == "United States")
 view(ordenOk)
 
 ggplot(ordenOk, aes(x= Age_Group, y= COVID19_Deaths, fill = Sex))+
-  geom_bar(stat = "identity")+
-  theme(axis.title.x = element_text(hjust = 1, vjust = 0.5))+
+  geom_bar(stat = "identity", position = "dodge")+
+  scale_fill_brewer(palette = "Set2")+
+  theme(axis.title.x = element_text(hjust = 1, vjust = 0.5),
+        panel.grid = element_blank(),
+  )+
   ggtitle("US Covid-19 Deaths \nby age and sex in 2020")+
   coord_flip()
-        
+
+#New plot
+ggplot(ordenOk, aes(x= Age_Group, y= COVID19_Deaths, fill = Sex))+
+  geom_bar(stat = "identity", position = "dodge")+
+  scale_fill_brewer(palette = "Set2")+
+  theme_classic()+
+  theme(legend.position = 'bottom', legend.direction = "horizontal")+
+  labs(
+    title = "US Covid-19 Deaths",
+    subtitle = "by age and sex in 2020",
+    caption = "Data from US Centers for Disease Control and Prevention",
+    x = "Age group",
+    y = "Covid 19 Deaths"
+    )+
+  coord_flip()
+
