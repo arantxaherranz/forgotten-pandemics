@@ -56,6 +56,8 @@ ggplot(ordenOk, aes(x= Age_Group, y= COVID19_Deaths, fill = Sex))+
   ggtitle("US Covid-19 Deaths \nby age and sex in 2020")+
   coord_flip()
 
+
+
 #New plot
 ggplot(ordenOk, aes(x= Age_Group, y= COVID19_Deaths, fill = Sex))+
   geom_bar(stat = "identity", position = "dodge")+
