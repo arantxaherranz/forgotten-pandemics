@@ -53,8 +53,8 @@ ggplot(ebola_df, aes(x=Date, y=Country, fill = ..x..)) +
 
 ggplot(ebola_df, aes(x=Date, y=Country, fill= Country )) +
   geom_density_ridges_gradient(alpha=0.6, stat="binline", bins=20) +
-  scale_fill_viridis(discrete=TRUE) +
-  scale_color_viridis(discrete=TRUE) +
+  scale_fill_viridis(option = "magma", discrete=TRUE) +
+  scale_color_viridis(option = "magma", discrete=TRUE) +
   labs(title="Ebola cases by date and country") +
   theme_ipsum() +
   theme(
